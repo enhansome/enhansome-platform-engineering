@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:30:38Z",
+            "last_commit": "2026-08-19T10:53:43Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99113
+            "stars": 99117
           }
         },
         {
@@ -24,8 +25,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2206953,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T04:06:15Z",
+            "last_commit": "2026-08-19T10:22:35Z",
             "owner": "tj",
             "repo": "commander.js",
             "stars": 28365
@@ -38,18 +40,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111241370,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:55:42Z",
+            "last_commit": "2026-08-18T21:39:40Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16341
+            "stars": 16346
           }
         }
       ],
       "title": "Tooling— Frontend"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 71948498,
             "language": "Python",
             "last_commit": "2026-03-23T08:52:01Z",
             "owner": "localstack",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76734068,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:31:40Z",
+            "last_commit": "2026-08-19T12:42:40Z",
             "owner": "renovatebot",
             "repo": "renovate",
-            "stars": 22290
+            "stars": 22296
           }
         },
         {
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31795422,
             "language": "JavaScript",
             "last_commit": "2026-08-11T06:18:05Z",
             "owner": "facebook",
@@ -97,7 +103,7 @@
       "title": "Tooling— Feature flags, environments and change management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -106,11 +112,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56333861,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:42:11Z",
+            "last_commit": "2026-08-19T04:27:42Z",
             "owner": "verdaccio",
             "repo": "verdaccio",
-            "stars": 17829
+            "stars": 17830
           }
         },
         {
@@ -120,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59522149,
             "language": "Go",
-            "last_commit": "2026-08-18T17:27:22Z",
+            "last_commit": "2026-08-19T11:14:05Z",
             "owner": "gruntwork-io",
             "repo": "terragrunt",
-            "stars": 9784
+            "stars": 9785
           }
         },
         {
@@ -134,8 +142,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 866997913,
             "language": "OCaml",
-            "last_commit": "2026-08-18T14:39:20Z",
+            "last_commit": "2026-08-19T12:09:50Z",
             "owner": "stategraph",
             "repo": "stategraph",
             "stars": 1263
@@ -148,18 +157,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232444831,
             "language": "Java",
             "last_commit": "2026-06-20T07:16:58Z",
             "owner": "artipie",
             "repo": "artipie",
-            "stars": 688
+            "stars": 689
           }
         }
       ],
       "title": "Tooling— Infrastructure and Artifacts Management"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -168,11 +178,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 94779471,
             "language": "Go",
             "last_commit": "2026-08-18T08:46:23Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8145
+            "stars": 8146
           }
         },
         {
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173785481,
             "language": "Go",
             "last_commit": "2026-03-25T08:06:52Z",
             "owner": "aquasecurity",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 103084166,
             "language": "Go",
             "last_commit": "2025-11-20T19:37:10Z",
             "owner": "tenable",
@@ -210,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 278200746,
             "language": "Open Policy Agent",
-            "last_commit": "2026-08-18T12:32:24Z",
+            "last_commit": "2026-08-19T10:47:53Z",
             "owner": "Checkmarx",
             "repo": "kics",
-            "stars": 2687
+            "stars": 2688
           }
         },
         {
@@ -224,11 +238,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 894433723,
             "language": "Python",
             "last_commit": "2026-08-06T15:05:32Z",
             "owner": "ASCIT31",
             "repo": "Dark-Moon",
-            "stars": 845
+            "stars": 847
           }
         },
         {
@@ -238,8 +253,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1243017690,
             "language": "Elixir",
-            "last_commit": "2026-08-18T17:00:31Z",
+            "last_commit": "2026-08-19T00:30:06Z",
             "owner": "AndrewDryga",
             "repo": "emisar",
             "stars": 416
@@ -252,8 +268,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411456245,
             "language": "Go",
-            "last_commit": "2026-07-25T07:37:03Z",
+            "last_commit": "2026-08-19T03:40:48Z",
             "owner": "opcr-io",
             "repo": "policy",
             "stars": 259
@@ -263,7 +280,7 @@
       "title": "Tooling— Security and Policies"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -272,11 +289,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1137865761,
             "language": "Go",
-            "last_commit": "2026-08-18T17:53:48Z",
+            "last_commit": "2026-08-19T12:19:46Z",
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 2996
+            "stars": 3003
           }
         },
         {
@@ -286,11 +304,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230132368,
             "language": "TypeScript",
             "last_commit": "2026-08-12T16:57:30Z",
             "owner": "agynio",
             "repo": "platform",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -300,8 +319,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:29:19Z",
+            "last_commit": "2026-08-19T11:48:09Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -311,7 +331,7 @@
       "title": "Tooling— Kubernetes, PAAS and Cloud services"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -320,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54400687,
             "language": "Go",
-            "last_commit": "2026-08-18T15:01:05Z",
+            "last_commit": "2026-08-19T11:02:37Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31276
+            "stars": 31279
           }
         },
         {
@@ -334,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 392596825,
             "language": "Go",
             "last_commit": "2026-03-04T10:47:26Z",
             "owner": "getanteon",
@@ -348,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29977860,
             "language": null,
             "last_commit": "2025-11-28T16:02:39Z",
             "owner": "atinfo",
@@ -362,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486525050,
             "language": "Java",
             "last_commit": "2026-08-06T07:25:16Z",
             "owner": "microsoft",
@@ -373,7 +397,7 @@
       "title": "Tooling— Testing and Metrics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -382,11 +406,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326404870,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T17:40:56Z",
+            "last_commit": "2026-08-19T12:40:09Z",
             "owner": "SigNoz",
             "repo": "signoz",
-            "stars": 31868
+            "stars": 31876
           }
         },
         {
@@ -396,11 +421,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45721011,
             "language": "Java",
             "last_commit": "2026-08-15T00:57:32Z",
             "owner": "apache",
             "repo": "skywalking",
-            "stars": 24922
+            "stars": 24925
           }
         },
         {
@@ -410,11 +436,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56342508,
             "language": "Go",
-            "last_commit": "2026-08-18T17:45:05Z",
+            "last_commit": "2026-08-19T05:21:41Z",
             "owner": "jaegertracing",
             "repo": "jaeger",
-            "stars": 23112
+            "stars": 23117
           }
         },
         {
@@ -424,11 +451,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1918677,
             "language": "Ruby",
             "last_commit": "2026-08-17T06:38:02Z",
             "owner": "fluent",
             "repo": "fluentd",
-            "stars": 13578
+            "stars": 13579
           }
         },
         {
@@ -438,11 +466,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274625369,
             "language": "Go",
             "last_commit": "2026-08-18T07:05:58Z",
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12465
+            "stars": 12469
           }
         },
         {
@@ -452,11 +481,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 178079595,
             "language": "Go",
-            "last_commit": "2026-08-11T21:07:14Z",
+            "last_commit": "2026-08-18T23:35:13Z",
             "owner": "opencost",
             "repo": "opencost",
-            "stars": 6683
+            "stars": 6684
           }
         },
         {
@@ -466,24 +496,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1177602006,
             "language": "TypeScript",
             "last_commit": "2026-04-16T16:51:03Z",
             "owner": "nicofains1",
             "repo": "agentwatch",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Ingero - eBPF-based GPU causal observability agent. Helm chart deploys as DaemonSet on K8s; traces CUDA APIs and host kernel events to explain GPU latency in AI/ML clusters",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Tooling— Observability and Cost Optimization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -492,11 +517,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231921809,
             "language": "Java",
-            "last_commit": "2026-08-18T11:43:38Z",
+            "last_commit": "2026-08-19T10:28:17Z",
             "owner": "supertokens",
             "repo": "supertokens-core",
-            "stars": 15261
+            "stars": 15264
           }
         },
         {
@@ -506,11 +532,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306366900,
             "language": "Go",
             "last_commit": "2026-08-18T13:55:29Z",
             "owner": "casdoor",
             "repo": "casdoor",
-            "stars": 14217
+            "stars": 14225
           }
         },
         {
@@ -520,8 +547,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2352744,
             "language": "Java",
-            "last_commit": "2026-08-18T15:20:22Z",
+            "last_commit": "2026-08-19T12:20:57Z",
             "owner": "apereo",
             "repo": "cas",
             "stars": 11358
@@ -534,11 +562,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 513870749,
             "language": "Go",
-            "last_commit": "2026-08-17T05:04:33Z",
+            "last_commit": "2026-08-19T06:03:24Z",
             "owner": "Permify",
             "repo": "permify",
-            "stars": 5935
+            "stars": 5936
           }
         },
         {
@@ -548,11 +577,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125619154,
             "language": "Go",
             "last_commit": "2026-08-18T03:43:56Z",
             "owner": "ory",
             "repo": "keto",
-            "stars": 5388
+            "stars": 5387
           }
         },
         {
@@ -562,18 +592,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 556329104,
             "language": "Go",
             "last_commit": "2026-08-11T15:07:16Z",
             "owner": "aserto-dev",
             "repo": "topaz",
-            "stars": 1358
+            "stars": 1359
           }
         }
       ],
       "title": "Tooling— Authentication and Authorization"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -582,6 +613,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244098056,
             "language": null,
             "last_commit": "2024-08-02T12:52:41Z",
             "owner": "jakob-pennington",
@@ -596,6 +628,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 540248924,
             "language": null,
             "last_commit": "2026-08-17T03:22:05Z",
             "owner": "toptechevangelist",
@@ -608,8 +641,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:58:02.988Z",
+    "last_updated": "2026-08-19T12:45:49.279Z",
     "original_repository": "shospodarets/awesome-platform-engineering",
+    "original_repository_id": 591639742,
     "original_repository_sha": "b3fc7655ca4af64a4174af9ecf963bb3b270457c",
     "enhanced_repository": "enhansome/enhansome-platform-engineering",
     "enhanced_repository_description": null,
