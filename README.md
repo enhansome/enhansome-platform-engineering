@@ -1,4 +1,4 @@
-[![Awesome badge](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,709 | 🐛 105 | 📅 2026-08-21
+[![Awesome badge](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,002 | 🐛 105 | 📅 2026-08-21
 
 # Awesome Platform Engineering with stars
 
@@ -52,8 +52,9 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Internal Developer Platforms
 
+* [SandBase Harness](https://github.com/sandbaseai/sandbase-harness) ⭐ 641 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-31 - Local-first agent runtime and MCP bridge for auditable sessions, sandboxed execution, approvals, and Docker/Kubernetes-backed platform workflows.
+* [Ota](https://github.com/ota-run/ota) ⭐ 80 | 🐛 1 | 🌐 Rust | 📅 2026-09-01 - Open-source repo execution governance with machine-readable contracts for setup, verification, workflows, runtime proof, and agent-safe execution.
 * [OpenChoreo - A complete, modular, open-source developer platform](https://openchoreo.dev/)
-* [Ota](https://github.com/ota-run/ota) ⭐ 80 | 🐛 1 | 🌐 Rust | 📅 2026-08-31 - Open-source repo execution governance with machine-readable contracts for setup, verification, workflows, runtime proof, and agent-safe execution.
 
 ## Tooling— Microservices
 
@@ -63,9 +64,9 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Frontend
 
-* [Ant Design- An enterprise-class UI design language and React UI library](https://github.com/ant-design/ant-design) ⭐ 99,317 | 🐛 1,105 | 🌐 TypeScript | 📅 2026-08-31
-* [commander.js- nNode.js CLI development framework](https://github.com/tj/commander.js/) ⭐ 28,382 | 🐛 9 | 🌐 JavaScript | 📅 2026-08-31
-* [Capacitor- cross-platform web apps building framework](https://github.com/ionic-team/capacitor) ⭐ 16,514 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-31
+* [Ant Design- An enterprise-class UI design language and React UI library](https://github.com/ant-design/ant-design) ⭐ 99,346 | 🐛 1,103 | 🌐 TypeScript | 📅 2026-09-01
+* [commander.js- nNode.js CLI development framework](https://github.com/tj/commander.js/) ⭐ 28,382 | 🐛 8 | 🌐 JavaScript | 📅 2026-09-01
+* [Capacitor- cross-platform web apps building framework](https://github.com/ionic-team/capacitor) ⭐ 16,536 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-31
 * [Storybook](https://storybook.js.org/)
 * [Radix UI- unstyled, accessible components](https://www.radix-ui.com/)
 * [daisyUI- Tailwind CSS based components](https://daisyui.com/)
@@ -74,8 +75,8 @@ A curated list of tools and resources for Platform Engineering.
 ## Tooling— Feature flags, environments and change management
 
 * [LocalStack- A fully functional local AWS cloud stack](https://github.com/localstack/localstack) ⚠️ Archived
-* [Update NPM, pip, Gem etc. dependencies](https://github.com/renovatebot/renovate) ⭐ 22,379 | 🐛 1,341 | 🌐 TypeScript | 📅 2026-08-31
-* [Upgrade JavaScript or TypeScript codebases](https://github.com/facebook/jscodeshift) ⭐ 10,039 | 🐛 151 | 🌐 JavaScript | 📅 2026-08-11
+* [Update NPM, pip, Gem etc. dependencies](https://github.com/renovatebot/renovate) ⭐ 22,379 | 🐛 1,344 | 🌐 TypeScript | 📅 2026-09-01
+* [Upgrade JavaScript or TypeScript codebases](https://github.com/facebook/jscodeshift) ⭐ 10,038 | 🐛 152 | 🌐 JavaScript | 📅 2026-09-01
 * [ConfigCat - Privacy-first feature flag service](https://configcat.com/)
 * [OpenFeature - community-developed specification to standardise feature flag management](https://github.com/open-feature#welcome-to-the-openfeature-project-)
 * [Launchdarkly- feature flags paid service](https://launchdarkly.com/)
@@ -88,9 +89,9 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Infrastructure and Artifacts Management
 
-* [Verdaccio- a simple, zero-config npm registry](https://github.com/verdaccio/verdaccio) ⭐ 17,851 | 🐛 31 | 🌐 TypeScript | 📅 2026-08-30
-* [Terragrunt for deployment environments (dev/staging/prod) and other features](https://github.com/gruntwork-io/terragrunt) ⭐ 9,813 | 🐛 224 | 🌐 Go | 📅 2026-08-31
-* [Terrateam - GitOps-first open-source IaC automation for Terraform, OpenTofu, and more](https://github.com/terrateamio/terrateam) ⭐ 1,276 | 🐛 107 | 🌐 OCaml | 📅 2026-08-31
+* [Verdaccio- a simple, zero-config npm registry](https://github.com/verdaccio/verdaccio) ⭐ 17,852 | 🐛 39 | 🌐 TypeScript | 📅 2026-09-01
+* [Terragrunt for deployment environments (dev/staging/prod) and other features](https://github.com/gruntwork-io/terragrunt) ⭐ 9,815 | 🐛 226 | 🌐 Go | 📅 2026-09-01
+* [Terrateam - GitOps-first open-source IaC automation for Terraform, OpenTofu, and more](https://github.com/terrateamio/terrateam) ⭐ 1,277 | 🐛 110 | 🌐 OCaml | 📅 2026-09-01
 * [Artpie- open source artifact management alternative for Artifactory, Nexus etc.](https://github.com/artipie/artipie) ⭐ 689 | 🐛 85 | 🌐 Java | 📅 2026-08-26
 * [Atlantis - Terraform Pull Request Automation](https://www.runatlantis.io/)
 * [Jenkins Pipelines as Code](https://www.jenkins.io/doc/book/pipeline-as-code/)
@@ -100,12 +101,12 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Security and Policies
 
-* [kube-bench checks whether Kubernetes security is aording to CIS K8S Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8,162 | 🐛 97 | 🌐 Go | 📅 2026-08-24
-* [tfsec- Terraform code security scanner](https://github.com/aquasecurity/tfsec) ⭐ 7,034 | 🐛 18 | 🌐 Go | 📅 2026-03-25
+* [kube-bench checks whether Kubernetes security is aording to CIS K8S Benchmark](https://github.com/aquasecurity/kube-bench) ⭐ 8,161 | 🐛 97 | 🌐 Go | 📅 2026-08-24
+* [tfsec- Terraform code security scanner](https://github.com/aquasecurity/tfsec) ⭐ 7,035 | 🐛 18 | 🌐 Go | 📅 2026-03-25
 * [terrascan- detect compliance and security violations in IaC/Terraform](https://github.com/tenable/terrascan) ⚠️ Archived
 * [KICS by Checkmarx- detect security vulnerabilities, compliance issues, and infrastructure misconfigurations](https://github.com/Checkmarx/kics) ⭐ 2,698 | 🐛 316 | 🌐 Open Policy Agent | 📅 2026-08-31
-* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 883 | 🐛 2 | 🌐 Python | 📅 2026-08-29 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
-* [emisar](https://github.com/AndrewDryga/emisar) ⭐ 355 | 🐛 0 | 🌐 Elixir | 📅 2026-08-31 - A control plane for giving AI agents limited, auditable access to infrastructure operations through defined actions and policy rules.
+* [Darkmoon](https://github.com/ASCIT31/Dark-Moon) ⭐ 885 | 🐛 2 | 🌐 Python | 📅 2026-08-29 - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
+* [emisar](https://github.com/AndrewDryga/emisar) ⭐ 354 | 🐛 0 | 🌐 Elixir | 📅 2026-08-31 - A control plane for giving AI agents limited, auditable access to infrastructure operations through defined actions and policy rules.
 * [Secure the software supply chain for OPA policies](https://github.com/opcr-io/policy) ⭐ 259 | 🐛 9 | 🌐 Go | 📅 2026-08-19
 * [Semgrep security simple static analysis](https://semgrep.dev/)
 * [Checkov Policy-as-code](https://www.checkov.io/)
@@ -113,9 +114,9 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Kubernetes, PAAS and Cloud services
 
-* [Radar](https://github.com/skyhook-io/radar) ⭐ 3,186 | 🐛 65 | 🌐 Go | 📅 2026-08-31 - Open-source Kubernetes visibility tool for topology, events, resources, Helm, GitOps, traffic, cost, audit, access control, and MCP for AI tools.
+* [Radar](https://github.com/skyhook-io/radar) ⭐ 3,201 | 🐛 63 | 🌐 Go | 📅 2026-09-01 - Open-source Kubernetes visibility tool for topology, events, resources, Helm, GitOps, traffic, cost, audit, access control, and MCP for AI tools.
 * [Agyn](https://github.com/agynio/platform) ⭐ 228 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-21 - Kubernetes-native agent orchestration platform with Terraform-managed configuration (agents-as-code), audit logs, and scale-to-zero execution.
-* [KubeStellar Console - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability](https://github.com/kubestellar/console) ⭐ 130 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-31
+* [KubeStellar Console - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability](https://github.com/kubestellar/console) ⭐ 131 | 🐛 38 | 🌐 TypeScript | 📅 2026-09-01
 * [Dokku- Open source PAAS alternative to Heroku](https://dokku.com/)
 * [Crossplane- control plane framework using K8s custom resources](https://www.crossplane.io/)
 * [KubeVela- create cloud resources using K8s customer resources](https://kubevela.io/)
@@ -130,28 +131,28 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Service mesh, API Gateway and App Proxies
 
-* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,887 | 🐛 155 | 🌐 Python | 📅 2026-08-31 - Open-source Web Application Firewall and reverse proxy.
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 10,891 | 🐛 161 | 🌐 Python | 📅 2026-09-01 - Open-source Web Application Firewall and reverse proxy.
 * [Istio- open source service mesh](https://istio.io/)
 * [Kong- API Gateway and Service Connectivity Platform](https://konghq.com/)
 * [Traefik- Cloud Native Application Proxy](https://traefik.io/)
 
 ## Tooling— Testing and Metrics
 
-* [k6- performance/load testing tool](https://github.com/grafana/k6) ⭐ 31,359 | 🐛 801 | 🌐 Go | 📅 2026-08-31
-* [ddosify- performance testing platform](https://github.com/ddosify/ddosify) ⭐ 8,522 | 🐛 19 | 🌐 Go | 📅 2026-03-04
-* [Awesome Test Automation- a list of test automation frameworks, tools etc.](https://github.com/atinfo/awesome-test-automation) ⭐ 7,147 | 🐛 135 | 📅 2025-11-28
+* [k6- performance/load testing tool](https://github.com/grafana/k6) ⭐ 31,365 | 🐛 801 | 🌐 Go | 📅 2026-08-31
+* [ddosify- performance testing platform](https://github.com/ddosify/ddosify) ⭐ 8,520 | 🐛 19 | 🌐 Go | 📅 2026-03-04
+* [Awesome Test Automation- a list of test automation frameworks, tools etc.](https://github.com/atinfo/awesome-test-automation) ⭐ 7,150 | 🐛 135 | 📅 2025-11-28
 * [Hydra Lab: build your intelligent cloud testing system](https://github.com/microsoft/HydraLab) ⭐ 1,029 | 🐛 59 | 🌐 Java | 📅 2026-08-27
 * [SonarQube- continuous code quality inspection](https://www.sonarsource.com/products/sonarqube/)
 * [Swarmia- tools to gather and improve engineering and DORA metrics](https://www.swarmia.com/product/objections/)
 
 ## Tooling— Observability and Cost Optimization
 
-* [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz) ⭐ 31,983 | 🐛 1,550 | 🌐 TypeScript | 📅 2026-08-31
-* [Apache SkyWalking — Application Performance Monitoring](https://github.com/apache/skywalking) ⭐ 24,936 | 🐛 38 | 🌐 Java | 📅 2026-08-26
-* [Jaeger CNCF- a Distributed Tracing Platform](https://github.com/jaegertracing/jaeger) ⭐ 23,169 | 🐛 562 | 🌐 Go | 📅 2026-08-29
-* [Fluentd CNCF: Unified Logging Layer](https://github.com/fluent/fluentd) ⭐ 13,582 | 🐛 133 | 🌐 Ruby | 📅 2026-08-31
-* [Infracost- cost estimates for Terraform](https://github.com/infracost/infracost) ⭐ 12,498 | 🐛 17 | 🌐 Go | 📅 2026-08-31
-* [OpenCost — open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost) ⭐ 6,716 | 🐛 297 | 🌐 Go | 📅 2026-08-31
+* [SigNoz- an open-source alternative to DataDog, NewRelic, etc.](https://github.com/signoz/signoz) ⭐ 31,992 | 🐛 1,548 | 🌐 TypeScript | 📅 2026-09-01
+* [Apache SkyWalking — Application Performance Monitoring](https://github.com/apache/skywalking) ⭐ 24,937 | 🐛 39 | 🌐 Java | 📅 2026-08-26
+* [Jaeger CNCF- a Distributed Tracing Platform](https://github.com/jaegertracing/jaeger) ⭐ 23,170 | 🐛 571 | 🌐 Go | 📅 2026-09-01
+* [Fluentd CNCF: Unified Logging Layer](https://github.com/fluent/fluentd) ⭐ 13,582 | 🐛 137 | 🌐 Ruby | 📅 2026-09-01
+* [Infracost- cost estimates for Terraform](https://github.com/infracost/infracost) ⭐ 12,501 | 🐛 16 | 🌐 Go | 📅 2026-08-31
+* [OpenCost — open source cost monitoring tool for Kubernetes](https://github.com/opencost/opencost) ⭐ 6,720 | 🐛 301 | 🌐 Go | 📅 2026-09-01
 * [AgentWatch - Multi-agent observability with cascade failure detection and fleet heartbeats](https://github.com/nicofains1/agentwatch) ⭐ 0 | 🐛 1 | 🌐 TypeScript | 📅 2026-04-16
 * [Netdata- Open-source infrastructure monitoring](https://www.netdata.cloud/)
 * [Sentry- error monitoring](https://sentry.io/)
@@ -163,11 +164,11 @@ A curated list of tools and resources for Platform Engineering.
 
 ## Tooling— Authentication and Authorization
 
-* [SuperTokens- Open Source User Authentication](https://github.com/supertokens/supertokens-core) ⭐ 15,296 | 🐛 148 | 🌐 Java | 📅 2026-08-31
-* [Casdoor- IAM/SSO platform with web UI](https://github.com/casdoor/casdoor) ⭐ 14,303 | 🐛 114 | 🌐 Go | 📅 2026-08-31
-* [CAS- Central Authentication Service](https://github.com/apereo/cas) ⭐ 11,359 | 🐛 6 | 🌐 Java | 📅 2026-08-31
-* [Permify- open-source authorization service](https://github.com/Permify/permify) ⭐ 5,943 | 🐛 89 | 🌐 Go | 📅 2026-08-31
-* [Ory Keto- Open-source implementation of "Zanzibar: Google's Authorization System"](https://github.com/ory/keto) ⭐ 5,391 | 🐛 74 | 🌐 Go | 📅 2026-08-31
+* [SuperTokens- Open Source User Authentication](https://github.com/supertokens/supertokens-core) ⭐ 15,295 | 🐛 143 | 🌐 Java | 📅 2026-09-01
+* [Casdoor- IAM/SSO platform with web UI](https://github.com/casdoor/casdoor) ⭐ 14,313 | 🐛 95 | 🌐 Go | 📅 2026-09-01
+* [CAS- Central Authentication Service](https://github.com/apereo/cas) ⭐ 11,360 | 🐛 7 | 🌐 Java | 📅 2026-09-01
+* [Permify- open-source authorization service](https://github.com/Permify/permify) ⭐ 5,944 | 🐛 97 | 🌐 Go | 📅 2026-09-01
+* [Ory Keto- Open-source implementation of "Zanzibar: Google's Authorization System"](https://github.com/ory/keto) ⭐ 5,392 | 🐛 74 | 🌐 Go | 📅 2026-08-31
 * [Topaz- Combining the best of OPA and Zanzibar](https://github.com/aserto-dev/topaz) ⭐ 1,360 | 🐛 11 | 🌐 Go | 📅 2026-08-31
 * [Permit.io - Authorization as a service with a no-code UI](https://permit.io/)
 
@@ -228,4 +229,4 @@ A curated list of tools and resources for Platform Engineering.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
