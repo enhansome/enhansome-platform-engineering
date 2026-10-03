@@ -15,11 +15,11 @@
             "id": 1297278222,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T06:05:46Z",
+            "last_commit": "2026-10-03T04:21:01Z",
             "open_issues": 9,
             "owner": "sandbaseai",
             "repo": "sandbase-harness",
-            "stars": 679,
+            "stars": 680,
             "topics": [
               "agent-harness",
               "agent-observability",
@@ -57,7 +57,7 @@
             "id": 1188051251,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T12:23:28Z",
+            "last_commit": "2026-10-03T02:18:57Z",
             "open_issues": 0,
             "owner": "ota-run",
             "repo": "ota",
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Ant Design- An enterprise-class UI design language and React UI library",
-          "description": null,
+          "description": "ant-design/ant-design",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,10 +140,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T08:13:12Z",
-            "open_issues": 1096,
+            "open_issues": 1098,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99659,
+            "stars": 99662,
             "topics": [
               "ant-design",
               "antd",
@@ -159,7 +159,7 @@
         {
           "node_type": "item",
           "title": "commander.js- nNode.js CLI development framework",
-          "description": null,
+          "description": "tj/commander.js",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -169,7 +169,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-01T04:07:19Z",
-            "open_issues": 16,
+            "open_issues": 19,
             "owner": "tj",
             "repo": "commander.js",
             "stars": 28414,
@@ -180,7 +180,7 @@
         {
           "node_type": "item",
           "title": "Capacitor- cross-platform web apps building framework",
-          "description": null,
+          "description": "ionic-team/capacitor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -193,7 +193,7 @@
             "open_issues": 141,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16769,
+            "stars": 16770,
             "topics": [
               "android",
               "capacitor",
@@ -220,7 +220,7 @@
         {
           "node_type": "item",
           "title": "LocalStack- A fully functional local AWS cloud stack",
-          "description": null,
+          "description": "localstack/localstack",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -249,7 +249,7 @@
         {
           "node_type": "item",
           "title": "Update NPM, pip, Gem etc. dependencies",
-          "description": null,
+          "description": "renovatebot/renovate",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -258,11 +258,11 @@
             "id": 76734068,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T17:13:00Z",
+            "last_commit": "2026-10-02T23:31:26Z",
             "open_issues": 1494,
             "owner": "renovatebot",
             "repo": "renovate",
-            "stars": 22653,
+            "stars": 22657,
             "topics": [
               "azure-devops",
               "bitbucket",
@@ -280,7 +280,7 @@
         {
           "node_type": "item",
           "title": "Upgrade JavaScript or TypeScript codebases",
-          "description": null,
+          "description": "facebook/jscodeshift",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -289,8 +289,8 @@
             "id": 31795422,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:10:53Z",
-            "open_issues": 156,
+            "last_commit": "2026-10-03T02:48:10Z",
+            "open_issues": 157,
             "owner": "facebook",
             "repo": "jscodeshift",
             "stars": 10039,
@@ -307,7 +307,7 @@
         {
           "node_type": "item",
           "title": "Verdaccio- a simple, zero-config npm registry",
-          "description": null,
+          "description": "verdaccio/verdaccio",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -316,7 +316,7 @@
             "id": 56333861,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:02:50Z",
+            "last_commit": "2026-10-03T04:22:17Z",
             "open_issues": 30,
             "owner": "verdaccio",
             "repo": "verdaccio",
@@ -343,7 +343,7 @@
         {
           "node_type": "item",
           "title": "Terragrunt for deployment environments (dev/staging/prod) and other features",
-          "description": null,
+          "description": "gruntwork-io/terragrunt",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -356,7 +356,7 @@
             "open_issues": 221,
             "owner": "gruntwork-io",
             "repo": "terragrunt",
-            "stars": 9866,
+            "stars": 9867,
             "topics": [
               "aws",
               "cli",
@@ -371,7 +371,7 @@
         {
           "node_type": "item",
           "title": "Terrateam - GitOps-first open-source IaC automation for Terraform, OpenTofu, and more",
-          "description": null,
+          "description": "stategraph/stategraph",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -384,7 +384,7 @@
             "open_issues": 112,
             "owner": "stategraph",
             "repo": "stategraph",
-            "stars": 1287,
+            "stars": 1289,
             "topics": [
               "automation",
               "cloud-management",
@@ -406,7 +406,7 @@
         {
           "node_type": "item",
           "title": "Artpie- open source artifact management alternative for Artifactory, Nexus etc.",
-          "description": null,
+          "description": "artipie/artipie",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -441,7 +441,7 @@
         {
           "node_type": "item",
           "title": "kube-bench checks whether Kubernetes security is aording to CIS K8S Benchmark",
-          "description": null,
+          "description": "aquasecurity/kube-bench",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "tfsec- Terraform code security scanner",
-          "description": null,
+          "description": "aquasecurity/tfsec",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,7 +512,7 @@
         {
           "node_type": "item",
           "title": "terrascan- detect compliance and security violations in IaC/Terraform",
-          "description": null,
+          "description": "tenable/terrascan",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -554,7 +554,7 @@
         {
           "node_type": "item",
           "title": "KICS by Checkmarx- detect security vulnerabilities, compliance issues, and infrastructure misconfigurations",
-          "description": null,
+          "description": "Checkmarx/kics",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -639,8 +639,8 @@
             "id": 1243017690,
             "language": "Elixir",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T22:25:47Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-02T22:32:39Z",
+            "open_issues": 13,
             "owner": "AndrewDryga",
             "repo": "emisar",
             "stars": 337,
@@ -667,7 +667,7 @@
         {
           "node_type": "item",
           "title": "Secure the software supply chain for OPA policies",
-          "description": null,
+          "description": "opcr-io/policy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -707,11 +707,11 @@
             "id": 1137865761,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T20:06:54Z",
-            "open_issues": 99,
+            "last_commit": "2026-10-03T01:27:29Z",
+            "open_issues": 95,
             "owner": "skyhook-io",
             "repo": "radar",
-            "stars": 3582,
+            "stars": 3585,
             "topics": [
               "ai-agents",
               "argocd",
@@ -778,7 +778,7 @@
         {
           "node_type": "item",
           "title": "KubeStellar Console - Multi-cluster Kubernetes dashboard with AI-powered operations and real-time observability",
-          "description": null,
+          "description": "kubestellar/console",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,8 +787,8 @@
             "id": 1135473716,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:18:58Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T04:44:11Z",
+            "open_issues": 4,
             "owner": "kubestellar",
             "repo": "console",
             "stars": 140,
@@ -805,7 +805,7 @@
         {
           "node_type": "item",
           "title": "k6- performance/load testing tool",
-          "description": null,
+          "description": "grafana/k6",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -818,7 +818,7 @@
             "open_issues": 780,
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31758,
+            "stars": 31763,
             "topics": [
               "es6",
               "go",
@@ -836,7 +836,7 @@
         {
           "node_type": "item",
           "title": "ddosify- performance testing platform",
-          "description": null,
+          "description": "getanteon/anteon",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -869,7 +869,7 @@
         {
           "node_type": "item",
           "title": "Awesome Test Automation- a list of test automation frameworks, tools etc.",
-          "description": null,
+          "description": "atinfo/awesome-test-automation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,7 +911,7 @@
         {
           "node_type": "item",
           "title": "Hydra Lab: build your intelligent cloud testing system",
-          "description": null,
+          "description": "microsoft/HydraLab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -949,7 +949,7 @@
         {
           "node_type": "item",
           "title": "OrcaReplay- record an agent or service run at its LLM-provider boundary and replay it offline, with no provider call and no API key",
-          "description": null,
+          "description": "Continuum-AI-Corp/OrcaReplay",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -992,7 +992,7 @@
         {
           "node_type": "item",
           "title": "SigNoz- an open-source alternative to DataDog, NewRelic, etc.",
-          "description": null,
+          "description": "SigNoz/signoz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1005,7 +1005,7 @@
             "open_issues": 1542,
             "owner": "SigNoz",
             "repo": "signoz",
-            "stars": 32266,
+            "stars": 32267,
             "topics": [
               "apm",
               "application-monitoring",
@@ -1034,7 +1034,7 @@
         {
           "node_type": "item",
           "title": "Apache SkyWalking — Application Performance Monitoring",
-          "description": null,
+          "description": "apache/skywalking",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1070,7 +1070,7 @@
         {
           "node_type": "item",
           "title": "Jaeger CNCF- a Distributed Tracing Platform",
-          "description": null,
+          "description": "jaegertracing/jaeger",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1080,7 +1080,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T19:36:05Z",
-            "open_issues": 546,
+            "open_issues": 547,
             "owner": "jaegertracing",
             "repo": "jaeger",
             "stars": 23263,
@@ -1099,7 +1099,7 @@
         {
           "node_type": "item",
           "title": "Fluentd CNCF: Unified Logging Layer",
-          "description": null,
+          "description": "fluent/fluentd",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1126,7 +1126,7 @@
         {
           "node_type": "item",
           "title": "Infracost- cost estimates for Terraform",
-          "description": null,
+          "description": "infracost/infracost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1139,7 +1139,7 @@
             "open_issues": 23,
             "owner": "infracost",
             "repo": "infracost",
-            "stars": 12547,
+            "stars": 12549,
             "topics": [
               "aws",
               "azure",
@@ -1165,7 +1165,7 @@
         {
           "node_type": "item",
           "title": "OpenCost — open source cost monitoring tool for Kubernetes",
-          "description": null,
+          "description": "opencost/opencost",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1199,7 +1199,7 @@
         {
           "node_type": "item",
           "title": "AgentWatch - Multi-agent observability with cascade failure detection and fleet heartbeats",
-          "description": null,
+          "description": "nicofains1/agentwatch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1235,7 +1235,7 @@
         {
           "node_type": "item",
           "title": "SuperTokens- Open Source User Authentication",
-          "description": null,
+          "description": "supertokens/supertokens-core",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1276,7 +1276,7 @@
         {
           "node_type": "item",
           "title": "Casdoor- IAM/SSO platform with web UI",
-          "description": null,
+          "description": "casdoor/casdoor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1285,8 +1285,8 @@
             "id": 306366900,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T09:56:36Z",
-            "open_issues": 100,
+            "last_commit": "2026-10-03T03:40:54Z",
+            "open_issues": 97,
             "owner": "casdoor",
             "repo": "casdoor",
             "stars": 14505,
@@ -1318,7 +1318,7 @@
         {
           "node_type": "item",
           "title": "CAS- Central Authentication Service",
-          "description": null,
+          "description": "apereo/cas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1327,8 +1327,8 @@
             "id": 2352744,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T03:29:25Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-03T02:43:07Z",
+            "open_issues": 4,
             "owner": "apereo",
             "repo": "cas",
             "stars": 11381,
@@ -1360,7 +1360,7 @@
         {
           "node_type": "item",
           "title": "Permify- open-source authorization service",
-          "description": null,
+          "description": "Permify/permify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1373,7 +1373,7 @@
             "open_issues": 90,
             "owner": "Permify",
             "repo": "permify",
-            "stars": 5960,
+            "stars": 5961,
             "topics": [
               "abac",
               "access-control",
@@ -1401,7 +1401,7 @@
         {
           "node_type": "item",
           "title": "Ory Keto- Open-source implementation of \"Zanzibar: Google's Authorization System\"",
-          "description": null,
+          "description": "ory/keto",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1437,7 +1437,7 @@
         {
           "node_type": "item",
           "title": "Topaz- Combining the best of OPA and Zanzibar",
-          "description": null,
+          "description": "aserto-dev/topaz",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1476,7 +1476,7 @@
         {
           "node_type": "item",
           "title": "DevSecOps resources and tooling",
-          "description": null,
+          "description": "jakob-pennington/awesome-devsecops",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1505,7 +1505,7 @@
         {
           "node_type": "item",
           "title": "Platform Engineering list",
-          "description": null,
+          "description": "toptechevangelist/awesome-platform-engineering",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1546,7 +1546,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:26:00.694Z",
+    "last_updated": "2026-10-03T05:02:48.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of tools and resources for Platform Engineering",
@@ -1558,7 +1558,7 @@
       "open_issues": 0,
       "owner": "shospodarets",
       "repo": "awesome-platform-engineering",
-      "stars": 525,
+      "stars": 526,
       "topics": [
         "awesome",
         "awesome-list",
